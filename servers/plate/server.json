@@ -1,0 +1,12 @@
+{
+  "name": "Plate",
+  "description": "Lightweight project and task manager built for automation. Manage workspaces, projects, and tasks directly from Cursor.",
+  "transport": [
+    "streamable-http"
+  ],
+  "icon": "./icon.svg",
+  "oauth": true,
+  "config": {
+    "url": "https://plate.to/mcp"
+  }
+}
